@@ -45,7 +45,3 @@ Sales_Analytics_Dashboard/
 ├── sql/
 ├── dashboard/
 └── README.md
-
-## Dashboard Preview
-
-(Add dashboard_overview.png screenshot here after uploading to GitHub)
