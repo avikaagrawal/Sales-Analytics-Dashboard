@@ -45,3 +45,7 @@ Sales_Analytics_Dashboard/
 ├── sql/
 ├── dashboard/
 └── README.md
+
+#dashboard 
+<img width="1169" height="750" alt="dashboard_overview" src="https://github.com/user-attachments/assets/65868f18-d5c9-4841-8e7f-6cf06fde834c" />
+
